@@ -16,7 +16,7 @@ app.use("/about",AboutRouter)
 
 const PORT = 8000;
 const MONGO_URI =
-  "mongodb+srv://ayeshatravels9:dJtFblwGN3dYMicV@mycluster.cgrerhi.mongodb.net/Shivila";
+  "mongodb+srv://abdul:H0OzEcGYi0RRpHbV@cluster0.0pfjeqa.mongodb.net/AyeshaTask?retryWrites=true&w=majority";
 
 
 mongoose
